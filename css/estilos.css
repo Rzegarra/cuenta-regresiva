@@ -76,9 +76,9 @@ main {
 
 .simply-section {
 	background: #fff;
-	width: 180px;
-	height: 180px;
-	margin: 0 20px;
+	width: 80px;
+	height: 80px;
+	margin: 0 0.5em;
 	border-radius: 5px;
 	display: flex;
 	align-items: center;
@@ -87,13 +87,13 @@ main {
 
 .simply-amount {
 	display: block;
-	font-size: 50px;
+	font-size: 3em;
 	font-weight: 700;
 }
 
 .simply-word {
 	font-weight: 300;
-	font-size: 30px;
+	/* font-size: 30px; */
 }
 
 
